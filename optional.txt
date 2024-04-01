@@ -1,0 +1,6 @@
+matplotlib
+numpy
+torchvision
+Pillow # mod_name=PIL
+huggingface_hub
+transformers
