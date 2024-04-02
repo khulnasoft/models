@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest-32-cores
     steps:
       - name: Checkout 🛎️Startai Models
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           lfs: true
           path: models
